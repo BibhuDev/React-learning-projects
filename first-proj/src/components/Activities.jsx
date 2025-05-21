@@ -8,7 +8,7 @@ function Activities() {
                 19/05/2025
             </div>
             <div class="col-2">
-                <button type="button" class="btn btn-danger">Delete</button>
+                <button type="button" class="btn btn-danger bibhu">Delete</button>
             </div>
         </div>
 
@@ -20,7 +20,7 @@ function Activities() {
                 19/05/2025
             </div>
             <div class="col-2">
-                <button type="button" class="btn btn-danger">Delete</button>
+                <button type="button" class="btn btn-danger bibhu">Delete</button>
             </div>
         </div>
 
@@ -32,7 +32,7 @@ function Activities() {
                 19/05/2025
             </div>
             <div class="col-2">
-                <button type="button" class="btn btn-danger">Delete</button>
+                <button type="button" class="btn btn-danger bibhu">Delete</button>
             </div>
         </div>
     </div>
