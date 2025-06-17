@@ -1,5 +1,7 @@
-export function TodoCard(){
+function TodoCard(){
     return(
         <div></div>
     )
 }
+
+export default TodoCard

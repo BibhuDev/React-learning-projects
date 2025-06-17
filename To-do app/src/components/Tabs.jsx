@@ -1,9 +1,9 @@
-export function Tabs(){
+function Tabs(){
 
     const tabs= ['All','Open','Completed']
     return(
         <nav>
-            {tabs.map((tabs,tabIndex)=>{
+            {tabs.map((tab,tabIndex)=>{
                 return(
                     <button key={tabIndex}>
                         <h4>{tab}</h4>
@@ -13,3 +13,5 @@ export function Tabs(){
         </nav>
     )
 }
+
+export default Tabs
