@@ -1,5 +1,7 @@
 export function Header(){
     return(
-        <header>Bibhu</header>
+        <header>
+            <h2>You have a few tabs open</h2>
+        </header>
     )
 }
